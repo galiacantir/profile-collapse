@@ -99,15 +99,15 @@ th, td {
 }
 
 #experience{
-    display: none;
-    /* height: 0; 
+    /*display: none;*/
+    height: 0; 
     transition: 0.5s;
-    overflow: hidden;*/
+    overflow: hidden;
 }
 
 #experience:target{
-    display: block;
-    /* height: 172px; */
+    /*display: block;*/
+    height: 172px;
 }
 
 /* --- Abilities --- */
